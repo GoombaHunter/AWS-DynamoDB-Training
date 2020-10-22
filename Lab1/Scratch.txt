@@ -1,0 +1,13 @@
+Start 2PM Finish 2:20PM
+
+FIND:
+Region:
+Endpoint: default
+TableName:
+Schema:
+
+
+ TERMS
+
+ KeySchema
+ DynamoDB.createTable
